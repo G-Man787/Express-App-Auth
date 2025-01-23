@@ -1,4 +1,4 @@
-# msd-2022-spring-booster-seminar-1
+
 # Build a backend application for an ecommerce system
 # First (2 days): Init and create simple API
 1. Create a backend application using express to manage products. Each product includes id, name, price. 
